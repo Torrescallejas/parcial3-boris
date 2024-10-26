@@ -99,9 +99,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'celebracionesdb',  # El nombre de tu base de datos
-        'USER': 'root',           # Tu usuario de MySQL
-        'PASSWORD': 'my_Db1212',              # La contraseña de tu usuario
-        'HOST': 'localhost',                   # La dirección del servidor MySQL (localhost si es local)
+        'USER': 'TGFher',           # Tu usuario de MySQL
+        'PASSWORD': '12345',              # La contraseña de tu usuario
+        'HOST': '34.171.238.8',                   # La dirección del servidor MySQL (localhost si es local)
         'PORT': '3306',                        # El puerto de MySQL (por defecto es 3306)
     }
 }
